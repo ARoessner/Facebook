@@ -1,11 +1,19 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "Facebook Server",
+  "description": "Facebook",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Andrew, Thierno, Abhinav",
-  "license": "ISC"
+  "author": "Thierno, Andrew, Abhinav, Lam",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.1",
+    "mongoose": "^5.1.1",
+    "mongoose-unique-validator": "^2.0.1"
+  }
 }

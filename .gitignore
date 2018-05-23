@@ -1,0 +1,17 @@
+Client/e2e
+Client/node_modules
+Client/.angular-cli.json
+Client/.editorconfig
+Client/karma.conf.js
+Client/package.json
+Client/package-lock.json
+Client/protractor.conf.js
+Client/README.MD
+Client/tsconfig.json
+Client/tslint.json
+Client/.gitignore
+
+#Server frameworks
+Server/node_modules
+Server/package-lock.json
+
